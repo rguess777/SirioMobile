@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sirioecommerceapp">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/sirioimiageasset"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/sirioimiageasset_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SirioEcommerceApp">
+        <activity
+            android:name=".ui.act.CashActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.SoldProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.OrderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.CheckoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.AddEditAddressActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.AddressListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.CartListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.CartListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.CartListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.AddProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.ProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.act.DashboardActivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".ui.act.ProfilActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.act.FirstActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.act.ForgotPasswordActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.act.BasicActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.act.SignUpActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.act.LoginActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            >
+        </activity>
+        <activity
+            android:name=".ui.act.LoadingActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.act.MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

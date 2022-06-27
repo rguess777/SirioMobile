@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370418459746",
+    "project_id": "sirioapp-26213",
+    "storage_bucket": "sirioapp-26213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370418459746:android:24d1705d0d64ccceee1d3b",
+        "android_client_info": {
+          "package_name": "com.example.sirioecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370418459746-1ehemfi75s1vjgghqcks7g8e2gmjmb5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sirioecommerceapp",
+            "certificate_hash": "238637c8d8d1b4a06343d05c58310012d27361b6"
+          }
+        },
+        {
+          "client_id": "370418459746-1qtcn5q02oova62o23tk4u8rjt2vl0u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Ic-2fIfeKA8fH1M6r2FqftXOjzwyOrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370418459746-1qtcn5q02oova62o23tk4u8rjt2vl0u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

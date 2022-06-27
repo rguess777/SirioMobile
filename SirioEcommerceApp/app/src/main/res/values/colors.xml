@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#8E111B</color>
+    <color name="purple_500">#8E111B</color>
+    <color name="purple_700">#8E111B</color>
+    <color name="teal_200">#8E111B</color>
+    <color name="teal_700">#8E111B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="grey">#808080</color>
+    <color name="red_blood">#8E111B</color>
+    <color name="first_text">#FF000000</color>
+    <color name="second_text">#3F3F3F</color>
+    <color name="snack_bar_error">#FF0000</color>
+    <color name="snack_bar_success">#008000</color>
+    <color name="border">#E8E6E6</color>
+    <color name="dark_grey">#878787</color>
+    <color name="yellow">#FF9800</color>
+    <color name="colorImageViewBackground">#808080</color>
+    <color name="green">#008000</color>
+
+
+</resources>
